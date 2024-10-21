@@ -1,6 +1,8 @@
 # Windows SOAR EDR Project
 
 
+![image](https://github.com/user-attachments/assets/4ac3f4a0-815f-4b7d-a496-51a649afcea0)
+
 Windows SOAR and EDR Integration for Threat Detection and Response
 # Overview
 This project integrates Security Orchestration, Automation, and Response (SOAR) with Endpoint Detection and Response (EDR) in a Windows environment. It aims to automate threat detection and incident response to improve security efficiency.
